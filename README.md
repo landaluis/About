@@ -1,4 +1,4 @@
-### Bienvenidoa a mi Git!
+### Bienvenidoa a mi Git 👋!
 
 My name is Luis, i come from **Honduras**, Central America. 
 I studied economics and taught myself painting, which 
