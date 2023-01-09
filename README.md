@@ -1,4 +1,4 @@
-### Welcome to my GitHub (Luis Landa says HI!)
+### Welcome to my GitHub, 
 
 My name is Luis, i come from **Honduras**, Central America. 
 I studied economics and taught myself painting, which 
