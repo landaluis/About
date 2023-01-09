@@ -1,5 +1,16 @@
 ### Welcome to my GitHub (Luis Landa says HI!)
 
+My name is Luis, i come from **Honduras**, Central America. 
+I studied economics and taught myself painting, which 
+I have been doing for more than 10 years. 
+
+<img width="463" alt="Bildschirmfoto 2023-01-09 um 15 48 13" src="https://user-images.githubusercontent.com/122018061/211336336-65110f61-6530-4dfc-9324-04695e3b03f8.png">
+July, 2019. 
+
+
+
+
+
 <!--
 **landaluis/landaluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
