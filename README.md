@@ -3,9 +3,8 @@
 My name is Luis, i come from **Honduras**, Central America. 
 I studied economics and taught myself painting, which 
 I have been doing for more than 10 years. Currently living in
-Hamburg, Germany. Looking forward to become a **Web Developer**. 🚀 🔭 
+Hamburg, Germany. Looking forward to become a **Web Developer** whit NeueFische. 🚀 🔭 
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js)](https://skills.thijs.gg)
 
 
 
