@@ -1,5 +1,7 @@
-### NeueFische - Hamburg Alumni 
-- 🌱 Always growing...
+### NeueFische School and Pool for Digital Talent - Hamburg Alumni 
+                Web Developer - React - Next.js 
+
+ 🌱 Always growing...  🌱
 
 
 
